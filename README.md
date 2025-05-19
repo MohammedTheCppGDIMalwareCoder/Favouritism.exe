@@ -1,1 +1,0 @@
-# Favouritism.exe
